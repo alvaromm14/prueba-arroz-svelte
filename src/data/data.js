@@ -1,0 +1,17 @@
+export default [
+    { country: "China", code: "CN", data: 214403870 },
+    { country: "India", code: "IN", data: 195425000 },
+    { country: "Bangladés", code: "BD", data: 56944554 },
+    { country: "Indonesia", code: "ID", data: 54415294 },
+    { country: "Vietnam", code: "VN", data: 43852729 },
+    { country: "Tailandia", code: "TH", data: 33582000 },
+    { country: "Myanmar", code: "MM", data: 24910000 },
+    { country: "Filipinas", code: "PH", data: 19960170 },
+    { country: "Pakistán", code: "PK", data: 13984009 },
+    { country: "Brasil", code: "BR", data: 11660603 },
+    { country: "Camboya", code: "KH", data: 11410000 },
+    { country: "Japón", code: "JP", data: 10525400 },
+    { country: "Estados Unidos", code: "US", data: 8699720 },
+    { country: "Nigeria", code: "NG", data: 8342000 },
+    { country: "Nepal", code: "NP", data: 5621710 },
+]
